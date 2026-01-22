@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 22 10:33:16 2026
 
 @author: saayo
 """
@@ -340,4 +338,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
